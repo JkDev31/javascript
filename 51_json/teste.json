@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Cleverson",
+        "idade": 33,
+        "esta_trabalhando": true,
+        "detalhes_profissao": {
+            "profissao": "Programador",
+            "empresa": "Empresa X"
+        },
+        "hobbies": [
+            "Programar",
+            "Assistir séries",
+            "Comer"
+        ]
+    }
+]
